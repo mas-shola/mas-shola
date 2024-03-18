@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Sholahuddin Al Ayubi, a passionate software engineer.
+- 👀 I’m interested in exploring the latest technologies, especially in the field of AI and machine learning.
+- 🌱 I’m currently learning about golang and how to leverage it for scalable applications.
+- 💞️ I’m looking to collaborate on open-source projects that aim to make a positive impact on society.
+- 📫 How to reach me: You can reach me in my social media https://sholahudd.in/bio.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  I'm a bit of an aquatic enthusiast. When I'm not coding, you can often find me swimming laps at the local pool or exploring underwater worlds during scuba diving adventures!
